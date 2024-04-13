@@ -1,3 +1,3 @@
 # React + Vite
 
-Fill Responsive Portfolio Website
+Full Responsive Portfolio Website
